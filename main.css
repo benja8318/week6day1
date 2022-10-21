@@ -1,0 +1,21 @@
+html, body {
+    margin: 0;
+    height: 100%;
+}
+#body {
+    background-size: cover;
+}
+#products {
+color: white;
+}
+#appendToMe {
+border:black 1px;
+border-radius: 10px;
+}
+#clickMe {
+    border-style: solid;
+    
+}
+.darkMode {
+    background-color: #333333;
+}
